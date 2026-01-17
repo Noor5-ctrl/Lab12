@@ -1,0 +1,9 @@
+variable "env_prefix" {}
+variable "instance_type" {}
+variable "availability_zone" {}
+variable "public_key" {}
+variable "my_ip" {}
+variable "vpc_id" {}
+variable "subnet_id" {}
+variable "script_path" {}
+variable "instance_suffix" {}

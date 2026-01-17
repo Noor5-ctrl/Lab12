@@ -1,0 +1,8 @@
+.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.pem
+.terraform.lock.hcl
+./aws
+awscliv2.zip
